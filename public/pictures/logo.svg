@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.375 79.375"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.385"
+     inkscape:cx="182.31047"
+     inkscape:cy="154.51264"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0888px;line-height:1.25;font-family:sans-serif;fill:#ff4040;fill-opacity:0.94256759;stroke:none;stroke-width:0.252219"
+       x="19.738548"
+       y="42.249142"
+       id="text2036"
+       transform="scale(0.95327286,1.0490176)"><tspan
+         sodipodi:role="line"
+         id="tspan2034"
+         style="fill:#ff4040;fill-opacity:0.94256759;stroke-width:0.252219"
+         x="19.738548"
+         y="42.249142">Brasolftware</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ff4040;fill-opacity:0.94256759;fill-rule:evenodd;stroke:#c27979;stroke-width:1.00031;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path3611-6"
+       sodipodi:cx="148.73647"
+       sodipodi:cy="40.433212"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="48.825966"
+       sodipodi:argument="-17.948881"
+       sodipodi:t0="0"
+       transform="matrix(0.20212231,0,0,0.20836435,-21.564,32.189614)"
+       d="m 148.73647,40.433212 c 1.52044,1.918655 -1.83618,2.996122 -3.18893,2.527075 -3.66589,-1.27109 -3.71271,-6.160566 -1.86522,-8.904935 3.30471,-4.909033 10.38711,-4.708882 14.62094,-1.203363 6.2133,5.14449 5.74213,14.673729 0.5415,20.336945 -6.93162,7.548175 -18.98202,6.791641 -26.05295,-0.12035 -8.89804,-8.698035 -7.84964,-23.300736 0.78221,-31.768954 10.45433,-10.256146 27.62534,-8.912585 37.48496,1.444062 11.61922,12.20495 9.97863,31.953609 -2.10592,43.200963 -13.95209,12.985516 -36.28433,11.046743 -48.91697,-2.767773 -14.354,-15.696932 -12.1163,-40.616778 3.42963,-54.6329731 17.44019,-15.7240524 44.95048,-13.1869137 60.34898,4.0914851 17.09525,19.182298 14.25831,49.285121 -4.75334,66.064982" />
+  </g>
+</svg>
