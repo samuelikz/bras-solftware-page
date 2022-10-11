@@ -81,6 +81,12 @@ nav ul{
 
 .bsg-card {height: 50vh; background-color: rgba(72, 72, 65, 0.23);}
 
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 footer ul{
     display: flex;
     flex-direction: row;
