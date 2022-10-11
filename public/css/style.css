@@ -1,0 +1,99 @@
+@import"https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap";
+
+:root{
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: “Source Sans Pro”, sans-serif;
+    font-weight: 300;
+    width: 1024px;
+    margin: auto;
+
+    --primary-color: rgb(255 8 8);
+    --fonte-primary: #00a9ff;
+    --fonte-secudary: #6b7579;
+}
+
+ul, li, a{
+    text-decoration: none;
+    list-style: none;
+}
+
+.linha{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.bg-card {
+    margin: 1rem;
+    border-radius: 1rem;
+    width: auto;
+    padding:10px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.botao{
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+.sobre article h2 {
+    font-size: 50px;
+    line-height: 90%;
+    font-weight: 400;
+    color: var(--fonte-primary);
+}
+
+.sobre article h1{
+    color: var(--fonte-secudary);
+}
+
+.botao-destaque{
+    background-color: var(--primary-color);
+    color: aliceblue;
+}
+
+.bsg-card {height: 50vh; background-color: rgba(72, 72, 65, 0.23);}
+
+footer ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.botao-destaque:hover {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgb(173, 216, 230, 0.5);
+}
+
+.entrada:hover {
+    outline: none;
+    cursor: pointer;
+    opacity: 0.9;
+}
